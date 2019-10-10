@@ -1,0 +1,28 @@
+name: LobbyCore
+main: me.mralecroyt.LobbyCore.CoreMain
+version: 1.0.3
+authors: [MrAlecroYT]
+description: Plugin for GroyLandNetWork
+softpend: [PlaceholderAPI, Vault]
+commands:
+  setspawn:
+    description: setea el Spawn
+  vanish:
+    description: vanish
+  fly:
+    description: Fly
+  ss:
+    description: Fly
+  broadcast:
+    description: Fly
+    aliases: [bc]
+  tp:
+    description: Fly
+  msg:
+    description: Message
+    aliases: [w, whisper, tell, message, pm, pn, m]
+  reply:
+    description: Message
+    aliases: [r]
+
+

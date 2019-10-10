@@ -1,0 +1,86 @@
+#  .-.    .----. .----. .----..-.  .-..---.  .----. .----. .----.
+#  | |   /  {}  \| {}  }| {}  }\ \/ //  ___}/  {}  \| {}  }| {_
+#  | `--.\      /| {}  }| {}  } }  { \     }\      /| .-. \| {__
+#  `----' `----' `----' `----'  `--'  `---'  `----' `-' `-'`----'
+#
+# Author: MrAlecroYT
+# Version: 1.0.3
+
+#########################
+####  GWorldOptions  ####
+#########################
+AntiJoinMessage:
+  Enable: true
+SpawnBorder:
+  radius: 340
+  x: 240.5
+  y: 101.0
+  z: -1490.5
+  yaw: 92.1003
+  pitch: 0.0
+  world: Lobby
+  minY: 0
+  maxY: 256
+
+######################
+### GServerOptions ###
+######################
+MVdWPlaceholderAPI: false
+PlaceholderAPI: true
+VoidSpawn: true
+CustomJoins: true
+
+
+######################
+#### TitleOptions ####
+######################
+Tablist:
+  Enable: true
+  Time-Update: 2
+  header: "&fEstas jugando en &a&lGROY&f&lLAND NETWORK&f"
+  footer: "&fCompra tu rango en &atienda.groyland.net&f"
+
+#######################
+####  GWorldGuard  ####
+#######################
+
+cmd2.msg.format.toMe: "&a&lSS &8» &fEl staff &f%displayname% te he enviado el siguente mensaje: &a%message%&f."
+
+cmd.msg.format.meTo: "&fMensaje enviado a &a%displayname% &8» &f%message%"
+cmd.msg.format.toMe: "&fMensaje recibido de &a%displayname%&8 » &f%message%"
+cmd.msg.mayNotSendLinks: "&a&lMSG &8» &fNo puedes hacer esto."
+
+cmd.reply.noMessageSent: "&a&lMSG &8» &fNo tienes a nadie a quien responder."
+
+cmd.blockmsg.activated: "&a&lMSG &8» &cHas desactivados los mensajes."
+cmd.blockmsg.deactivated: "&a&lMSG &8» &aHas activados los mensajes."
+
+cmd.socialspy.on: "&a&lMSG &8» &aAhora estas espiando los mensajes."
+cmd.socialspy.off: "&a&lMSG &8» &cYa no esyas espiando los mensajes."
+cmd.socialspy.msg: "&a&lSS &8» &c%player1% &8-> %c%player2% &8» &f%message%"
+
+player.notOnline: "&a&lSS &8» &cEl Jugador '%player%' esta desconectado."
+player.noPermission: "&cComando desconocido."
+player.blockingMessages: "&a&lMSG &8» &cEl jugador %displayname% tiene los mensajes bloqueados."
+
+#El mundo con minusculas y mayusculas
+
+Mundo:
+  - "Lobby"
+
+######################
+### GServerMessage ###
+######################
+Mensajes:
+  Server-Lleno: '&2&lSERVIDOR LLENO! &fSi quieres entrar compra rango en &atienda.groyland.net&f.'
+  Whitelist: '&2&lLISTA BLANCA! &f¡No puedes entrar a este servidor!'
+  No-Permisisos: '&cNo tienes permisos para ejecutar esta acción.'
+
+##########################
+### GServerPermissions ###
+##########################
+DonacionPerm: 'Donacionvip.permiso'
+AntiSpamBypass: 'Aspambypass.permiso'
+Memoria: 'Memoria.permiso'
+
+

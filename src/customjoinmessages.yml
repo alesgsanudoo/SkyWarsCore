@@ -1,0 +1,43 @@
+#   .---. .-. .-. .----..---.  .----. .-.   .-.   .-. .----. .-..-. .-..-.   .-..----. .----. .----.  .--.   .---. .----. .----.
+#  /  ___}| { } |{ {__ {_   _}/  {}  \|  `.'  |.-.| |/  {}  \| ||  `| ||  `.'  || {_  { {__  { {__   / {} \ /   __}| {_  { {__
+#  \     }| {_} |.-._} } | |  \      /| |\ /| || {} |\      /| || |\  || |\ /| || {__ .-._} }.-._} }/  /\  \\  {_ }| {__ .-._} }
+#   `---' `-----'`----'  `-'   `----' `-' ` `-'`----' `----' `-'`-' `-'`-' ` `-'`----'`----' `----' `-'  `-' `---' `----'`----'
+# Author: MrAlecroYT
+# Version: 1.0.3
+
+owner:
+  permission: join.owner
+  join-message: '&9&lOWNER &f%player% &aha entrado al lobby.'
+manager:
+  permission: join.manager
+  join-message: '&b&lMANAGER &f%player% &aha entrado al lobby.'
+dev-m:
+  permission: join.devm
+  join-message: '&2&lDEV-M &f%player% &aha entrado al lobby.'
+dev:
+  permission: join.dev
+  join-message: '&a&lDEV &f%player% &aha entrado al lobby.'
+admin:
+  permission: join.admin
+  join-message: '&c&lADMIN &f%player% &aha entrado al lobby.'
+srmod:
+  permission: join.srmod
+  join-message: '&6&lSRMOD &f%player% &aha entrado al lobby.'
+mod:
+  permission: join.mod
+  join-message: '&6&lMOD &f%player% &aha entrado al lobby.'
+helper:
+  permission: join.helper
+  join-message: '&d&lHELPER &f%player% &aha entrado al lobby.'
+youtuber:
+  permission: join.yt
+  join-message: '&c&lY&f&lT &f%player% &aha entrado al lobby.'
+gnome:
+  permission: join.gnome
+  join-message: '&a&lGNOME &f%player% &aha entrado al lobby.'
+smurf:
+  permission: join.smurf
+  join-message: '&3&lSMURF &f%player% &aha entrado al lobby.'
+phoenix:
+  permission: join.phoenix
+  join-message: '&c&lPHOENIX &f%player% &aha entrado al lobby.'

@@ -1,0 +1,18 @@
+#   .----..----.  .--.  .-. . .-..-. .-.
+#  { {__  | {}  }/ {} \ | |/ \| ||  `| |
+#  .-._} }| .--'/  /\  \|  .'.  || |\  |
+#  `----' `-'   `-'  `-'`-'   `-'`-' `-'
+#
+# Author: MrAlecroYT
+# Version: 1.0.3
+
+JoinSpawn: false
+SetSpawnMsj: ''
+EntrySpawn: ''
+Spawn:
+  x: 240.5
+  y: 101.0
+  z: -1490.5
+  yaw: 0
+  pitch: 92.1003
+  world: Lobby
